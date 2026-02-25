@@ -1,0 +1,21 @@
+{
+  "title": "Exercise: Python Boolean Operator Prediction",
+  "slug": "exercise-python-boolean-operator-prediction",
+  "description": "Predict the outputs of boolean expressions then run code to verify your understanding of boolean operators and precedence.",
+  "authors": [
+    "chris-cooling"
+  ],
+  "tags": [
+    "exercise",
+    "python"
+  ],
+  "duration": 5,
+  "prerequisites": [
+    "python-arithmetic-operators",
+    "python-boolean-operators",
+    "python-in-operator-membership"
+  ],
+  "related": [
+    "sample-solution-python-boolean-operator-prediction"
+  ]
+}
