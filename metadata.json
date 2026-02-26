@@ -12,6 +12,7 @@
   "duration": 5,
   "prerequisites": [
     "python-arithmetic-operators",
+    "python-comparison-operators",
     "python-boolean-operators",
     "python-in-operator-membership"
   ],
